@@ -27,7 +27,7 @@ Restaurants juggle a lot at once — owners, managers, staff, live inventory, ta
 
 ## 🗂️ ER Diagram
 
-![ER Diagram](Restaurant_ERD_Corrected.png)
+![ER Diagram](Restaurant_ERD.png)
 
 > Entity-relationship diagram showing all 13 tables, their attributes, primary keys, and relationships — including the `Employee → Waiter / Chef / Accountant` specialization (ISA) hierarchy. An editable `.svg` version is included in the repo for future updates.
 
